@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leo
-- 👀 I’m interested in sports performance & full stack software development!
-- 🌱 I’m currently working as a Trainee Software Engineer at Fidelity.
+- 👀 Interested in sports performance & full stack software development.
+- 🌱 I’m currently working as a Trainee Software Engineer at Fidelity Investments.
 - 📫 How to reach me: Send me an email at -> leomorgan.1210@gmail.com
 
 <!---
